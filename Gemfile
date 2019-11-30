@@ -47,3 +47,6 @@ gem 'mongoid', '~> 7.0.5'
 gem 'bson', '~> 4.5.0'
 
 gem 'ckeditor'
+
+gem 'carrierwave-mongoid', require: 'carrierwave/mongoid'
+gem 'mini_magick'
